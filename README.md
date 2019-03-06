@@ -1,5 +1,5 @@
 # KnapsackProblem
-Implementation of the Knapsack Problem in C++.
+Implementation of the Knapsack01 Problem in dynamic programming C++.
 
 Provide the input file as an argument to the executable.
 
